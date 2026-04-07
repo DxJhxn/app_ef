@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hola"
+msgstr "Hello"
+
+msgid "Mis Mascotas"
+msgstr "My Pets"
+
+msgid "Mi Perfil"
+msgstr "My Profile"
+
+msgid "Cerrar Sesión"
+msgstr "Logout"
+
+msgid "¿Cerrar sesión?"
+msgstr "Logout?"
+
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Registrarse"
+msgstr "Register"
+
+msgid "Correo"
+msgstr "Email"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Ingresar"
+msgstr "Login"
+
+msgid "Nombre"
+msgstr "Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Teléfono"
+msgstr "Phone"
+
+msgid "Telefono"
+msgstr "Phone"
+
+msgid "Idioma"
+msgstr "Language"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Editar Usuario"
+msgstr "Edit User"
+
+msgid "Agregar Usuario"
+msgstr "Add User"
+
+msgid "Listar Usuarios"
+msgstr "List Users"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Guardar"
+msgstr "Save"
+
+msgid "Creado"
+msgstr "Created"
+
+msgid "Modificado"
+msgstr "Modified"
+
+msgid "Nueva Mascota"
+msgstr "New Pet"
+
+msgid "Buscar por nombre o especie"
+msgstr "Search by name or species"
+
+msgid "Buscar"
+msgstr "Search"
+
+msgid "Limpiar"
+msgstr "Clear"
+
+msgid "Especie"
+msgstr "Species"
+
+msgid "Fecha Adopción"
+msgstr "Adoption Date"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Agregar Mascota"
+msgstr "Add Pet"
+
+msgid "Editar Mascota"
+msgstr "Edit Pet"
+
+msgid "Listar Mascotas"
+msgstr "List Pets"
+
+msgid "Eliminar Mascota"
+msgstr "Delete Pet"
+
+msgid "Descripción (Español)"
+msgstr "Description (Spanish)"
+
+msgid "Descripción (Inglés)"
+msgstr "Description (English)"
+
+msgid "Mascota guardada correctamente."
+msgstr "Pet saved successfully."
+
+msgid "No se pudo guardar. Intente nuevamente."
+msgstr "Could not save. Please try again."
+
+msgid "Mascota eliminada correctamente."
+msgstr "Pet deleted successfully."
+
+msgid "El usuario ha sido guardado exitosamente."
+msgstr "User saved successfully."
+
+msgid "El usuario no pudo ser guardado. Por favor, intente de nuevo."
+msgstr "User could not be saved. Please try again."
+
+msgid "El usuario ha sido eliminado."
+msgstr "User deleted successfully."
+
+msgid "Correo o contraseña incorrectos."
+msgstr "Incorrect email or password."
+
+msgid "¿Está seguro que desea eliminar esta mascota?"
+msgstr "Are you sure you want to delete this pet?"
+
+msgid "¿Está seguro que desea eliminar este usuario?"
+msgstr "Are you sure you want to delete this user?"
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} de {{count}} registros"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} of {{count}} records"
+
+msgid "Ingresa tus credenciales"
+msgstr "Enter your credentials"
+
+msgid "primero"
+msgstr "first"
+
+msgid "anterior"
+msgstr "previous"
+
+msgid "siguiente"
+msgstr "next"
+
+msgid "último"
+msgstr "last"
+
+msgid "Fecha de Adopción"
+msgstr "Date of Adoption"
